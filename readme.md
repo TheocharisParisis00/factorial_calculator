@@ -16,7 +16,7 @@ A simple web app that calculates the factorial of a number.
 
 ## Live Demo
 
-https://YOUR_USERNAME.github.io/factorial-calculator/
+https://theocharisparisis00.github.io/factorial_calculator/
 
 ## How to Run
 
